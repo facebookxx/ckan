@@ -1,4 +1,4 @@
-CKAN: The Open Source Data Portal Software
+ljulson1992@hotmail.com
 ==========================================
 
 .. image:: https://img.shields.io/badge/license-AGPL-blue.svg?style=flat
